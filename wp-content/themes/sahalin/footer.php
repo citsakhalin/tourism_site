@@ -38,7 +38,6 @@
 </div>
 <div class="md-overlay"></div>
 
-
 <?php wp_footer(); ?>
 
 <script>
@@ -89,5 +88,6 @@ $(function() {
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/38131640" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<div id="cr_widget_img"><a href="#" itemprop="Copy" id="cr_version_link"><img src="/wp-content/plugins/comfortable-reading/img/glsses.png"></a></div>
 </body>
 </html>

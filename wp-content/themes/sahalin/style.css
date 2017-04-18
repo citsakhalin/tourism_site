@@ -975,6 +975,7 @@ section.widget ul li a:hover {
     border-bottom: 1px dotted #d2aa41;
 }
 
-
-
+#special-version-controls #cr_version_link {
+position: inherit!important;
+}
 

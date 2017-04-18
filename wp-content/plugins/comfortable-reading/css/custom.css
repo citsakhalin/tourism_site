@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic,latin);
+@font-face {
+	font-family: Braille;
+	src: url("fonts/Braille.ttf");  
+}
+.widget_wp_cr_plugin {
+	display:inline-block!important;
+}
+#cr_widget {
+	display:inline-block!important;
+}
+#cr_widget {
+	display:inline!important;
+}
+.widget_wp_cr_plugin2 {
+	display:inline!important;
+}
+#cr_widget a {
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+	cursor: pointer;
+	background: #DB151C!important;
+	box-shadow: 0 -3px 0 rgba(0, 0, 0, 0.1) inset;
+	border: 0 none;
+	border-radius: 6px;
+	overflow: hidden;
+	font-size: 15px!important;
+	padding: 13px 18px 16px;
+	text-decoration: none;
+	color: #fff!important;
+	display: inline-block;
+	font-family: arial;
+	font-weight: bold;
+	outline: none;
+	line-height: 100%!important;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
+	margin-top: -3px;
+}
+#cr_widget_img a {
+    position: fixed;
+    top: 25px;
+    right: 0px;
+    cursor: pointer;
+    border: 0 none;
+    overflow: hidden;
+	outline: none;
+    text-decoration: none;
+    display: inline-block;
+	z-index: 999999999999;
+	background: none;
+}
+#cr_version_link img {
+    width: 135px;
+	border: none;
+    text-shadow: none;
+    box-shadow: none;
+}
+#cr_widget a:hover {
+	-o-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	-moz-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	-webkit-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+	text-decoration: underline;	
+}
+#cr_version_link {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: #FFF;
+	cursor: pointer;
+	font-size: 17px;
+	line-height: 28px;
+}
+.cr_with_icon {
+	background: url('../img/eye-icon.png');
+	background-repeat: no-repeat;
+	background-position-y: -2px;
+}
+.cr_with_icon span {
+	padding-left: 35px;
+	color: #000;
+}
+#special-version-container hr {
+	color:inherit!important;
+}
+#special-version-container * {
+	border-color:inherit!important;
+	text-shadow: none!important;
+	box-shadow: inherit!important;
+}
+#special-version-container #navigation a:hover {
+	background-color: none!important;
+}

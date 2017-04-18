@@ -1,0 +1,113 @@
+#special-version-controls {
+	position: relative;
+	background: #d6d6d6;
+	width: 100%;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+	margin: 0 auto;
+	text-align: center;
+	height: 120px;
+	line-height: 40px;
+	z-index: 999999999;
+}
+#special-version-controls table{
+    margin: 0 auto;
+	letter-spacing: normal!important;
+	border-collapse: collapse!important;
+}
+#special-version-controls th, #special-version-controls td {
+    width: 10%;
+    border: 1px solid #fff;
+    padding: 0px;
+    text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+	color:#000;
+	font-weight: 400;
+	font-size: 17px;
+	background: #D6D6D6;
+}
+#special-version-controls th:nth-child(1), #special-version-controls td:nth-child(1) {
+	border-left:none;
+}
+#special-version-controls th:nth-child(6), #special-version-controls td:nth-child(6) {
+	border-right:none;
+}
+#cr-font-color a {
+	width: 28px;
+}
+#special-version-controls a {
+	display:inline-block;
+	margin:0 3px;
+	text-decoration:none;
+	height: 28px;
+	outline: none;
+	line-height:28px!important;
+	font-size: 17px;
+	letter-spacing: 0px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+	color:#000;
+	text-align:center;
+	font-weight: 400;
+	letter-spacing: 0px!important;
+}
+#special-version-controls a:hover {
+	text-decoration: underline!important;
+	background: initial!important;
+}
+#special-version-controls a:focus {
+	text-decoration: underline!important;
+	background: initial!important;
+}
+#special-version-controls #cr_version_link {
+	background: url('../img/eye-icon.png')!important;
+	padding-left: 36px;
+	background-repeat: no-repeat!important;
+	background-position-y: -2px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+	font-weight: 400;
+	color: #000!important;
+	background-color: transparent!important;
+	cursor: pointer;
+	font-size: 18px!important;
+	line-height: 28px!important;
+	letter-spacing: 0px!important;
+	margin-left: -3px;
+	display: inline-flex;
+}
+#special-version-controls .cr {
+	background: url('../img/eye-icon.png')!important;
+	padding-left: 36px;
+	background-repeat: no-repeat!important;
+	background-position-y: -2px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+	font-weight: 400;
+	color: #000!important;
+	background-color: transparent!important;
+	cursor: pointer;
+	font-size: 18px!important;
+	line-height: 28px!important;
+	letter-spacing: 0px!important;
+	margin-left: -3px;
+	display: inline-flex;
+}
+#crfont-style a {
+	width:10px;
+	letter-spacing: 0px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+}
+#new-func-spacing a {
+	letter-spacing: 0px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+}
+#new-func-line a {
+	letter-spacing: 0px!important;
+	font-family: 'PT Sans Narrow', sans-serif!important;
+}
+#special-version-container #wp_cr_plugin2-1, #special-version-container #wp_cr_plugin-2, #special-version-container #wp_cr_plugin-3, #special-version-container #wp_cr_plugin-4, #special-version-container #wp_cr_plugin-5, #special-version-container #wp_cr_plugin-6, #special-version-container #wp_cr_plugin-7, #special-version-container #wp_cr_plugin-8, #special-version-container #wp_cr_plugin-9, #special-version-container #wp_cr_plugin-10, #special-version-container #wp_cr_plugin-11, #special-version-container #wp_cr_plugin-12, #special-version-container #wp_cr_plugin-13, #special-version-container #wp_cr_plugin-14, #special-version-container #wp_cr_plugin-15, #special-version-container #wp_cr_plugin-16 {
+	display:none!important;
+}
+#cr_widget {
+	display:none!important;
+}
+#cr-img-hide-off a {
+	width: 38px;
+}
